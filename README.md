@@ -3,8 +3,8 @@
 A simple plugin to customize the WordPress login page.
 
 1. Loads `style.css` from the plugin’s css directory on the login page. `logo.png` and `login-background.jpg` from plugin’s `images` directory are set to be used as logo and body background images respectively. Replace these images with your own. Make any other styling changes. Refer to [https://codex.wordpress.org/Customizing\_the\_Login\_Form#Styling\_Your\_Login][1]
-2. Changes the URL of the logo in WordPress login page from https://wordpress.org/ to site’s home URL.
-3. Sets the title attribute of the header logo above login form to “Site title - Site description(tagline)”.
+2. Changes the URL of logo in the login page from https://wordpress.org/ to site’s home URL.
+3. Sets the title attribute of header logo above the login form to “Site title - Site description(tagline)”.
 
 ## Screenshot
 
