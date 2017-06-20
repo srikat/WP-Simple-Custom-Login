@@ -1,0 +1,32 @@
+body.login {
+	background: url(../images/login-background.jpg) no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+body.login:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	pointer-events: none;
+	background: rgba(0, 0, 0, 0.3);
+	z-index: -1;
+}
+
+body.login div#login h1 a {
+    background-image: url(../images/logo.png);
+	border: 1px solid #eee;
+	/* change the values below according to your logo dimensions and uncomment */
+	/*width: 84px;
+	height: 84px;
+	background-size: 84px;*/
+}
+
+body.login div#login p#nav a,
+body.login div#login p#backtoblog a {
+	color: #fff;
+}
