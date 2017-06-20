@@ -8,12 +8,12 @@ A simple plugin to customize the WordPress login page.
 
 ## Screenshot
 
-![Screenshot][http://d.pr/i/LGkVnE+]
+![Screenshot](http://d.pr/i/LGkVnE+)
 
 ## Installation
 
 1. Click on the `Download ZIP` button at the right to download the plugin
-2. Upload the entire `wp-simple-custom-login wp-simple-custom-login ` folder to the `/wp-content/plugins/` directory
+2. Upload the entire `wp-simple-custom-login` folder to the `/wp-content/plugins/` directory
 3. Activate the plugin through the `Plugins` menu in WordPress
 
 ## Changelog
